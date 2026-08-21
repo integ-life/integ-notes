@@ -1,0 +1,10 @@
+{
+  "schema": "integ.life/build-version/v1",
+  "repository": "integ-life/life-on-golang",
+  "service": "notes.integ.life",
+  "version": "git-a5528bd7613f",
+  "semver": "1.23.13",
+  "commit": "a5528bd7613f4daa659cd82590c5edcbff44dc07",
+  "builtAt": "2026-08-20T14:48:34.357Z",
+  "dirty": false
+}
